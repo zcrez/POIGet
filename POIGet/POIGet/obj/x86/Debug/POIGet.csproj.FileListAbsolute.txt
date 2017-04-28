@@ -1,0 +1,7 @@
+E:\软件开发\POIGet\POIGet\POIGet\bin\Debug\POIGet.exe
+E:\软件开发\POIGet\POIGet\POIGet\bin\Debug\POIGet.pdb
+E:\软件开发\POIGet\POIGet\POIGet\obj\x86\Debug\POIGet.Form1.resources
+E:\软件开发\POIGet\POIGet\POIGet\obj\x86\Debug\POIGet.Properties.Resources.resources
+E:\软件开发\POIGet\POIGet\POIGet\obj\x86\Debug\POIGet.csproj.GenerateResource.Cache
+E:\软件开发\POIGet\POIGet\POIGet\obj\x86\Debug\POIGet.exe
+E:\软件开发\POIGet\POIGet\POIGet\obj\x86\Debug\POIGet.pdb
